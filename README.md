@@ -7,7 +7,7 @@ Runoff data from National Hydrogical Projections (NHP) are used to calculate the
 
 ## Indices considered by the hazard team:
 - Median annual maximum 1-day runoff
-- Annual total runoff – 90th percentile
+- Number of days exceeding the 90th percentile at GWL 1.2
 
 ## Products:
 Status of the NCRA deliverables. 
@@ -24,8 +24,8 @@ In terms of the colors:
 
 | Index/metric | Timeseries | 2D |  2D change | 2D change - Multi-ensemble percentiles | (Notes) |
 |-----         | :-:      |:-:      |:-:            |:-:            |-----    |
-| Median annual maximum 1-day runoff |:green_circle:|:yellow_circle:|:yellow_circle:|:green_circle:|deliverable for 30 June <br> Data is at /g/data/ia39/ncra/flood/Runoff_Max1D |
-|Annual total runoff – 90th percentile |:yellow_circle:|:yellow_circle:|:yellow_circle:|:yellow_circle:|deliverable for 30 June <br> Data to be transferred to /g/data/ia39/ncra/flood/Runoff_90perc |
+| Median annual maximum 1-day runoff |:green_circle:|:green_circle:|:green_circle:|:green_circle:|deliverable for 30 June <br> Data is at /g/data/ia39/ncra/flood/Runoff_Max1D |
+|Number of days exceeding the 90th percentile at GWL 1.2 |:green_circle:|:green_circle:|:green_circle:|:green_circle:|deliverable for 30 June <br> Data to be transferred to /g/data/ia39/ncra/flood/Runoff_Days_Exc_90Perc |
 
 ## Roadmap
 Coming soon..
