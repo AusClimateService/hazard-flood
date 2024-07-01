@@ -1,4 +1,4 @@
-# ACS Hazard Team on Riverine Floods 
+<img width="740" alt="max_1day_runoff_statistics_table" src="https://github.com/AusClimateService/hazard-flood/assets/105326247/2dcfb2a4-3614-4f19-bef9-c8c080a2ce5a"># ACS Hazard Team on Riverine Floods 
 ## Description
 GitHub repository for ACS Hazard Team on Riverine Floods to store, track and develop code, data (timeseries, plots and maps).
 Changes in the risk of riverine flooding are often associated with changes in the frequency or magnitude of extreme runoff. While extreme runoff does not directly translate to floods, this metric, in conjunction with information about land surface antecedent conditions and hydrological modelling, aid in the assessment of high-flow events that arise from exceptionally wet conditions.
@@ -29,7 +29,13 @@ In terms of the colors:
 
 **Figures:** Example figure for 'Maximum 1-day runoff percentage change relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble:
 ![Maximum 1-day runoff percentage change relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble](figures/max1day_runoff_ens_change_perc.png)
+max1day_change_statistics_regions_plot.png
 
+**Tables:** Example table for 'Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions:
+![Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions](/g/data/er4/kb9272/acs_flood/hazard-flood/figures/max_1day_runoff_statistics_table.png)
+
+**Plots:** Example plot for 'Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions:
+![Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions](/g/data/er4/kb9272/acs_flood/hazard-flood/figures/max1day_change_statistics_regions_plot.png)
 
 ## Roadmap
 The data for the outputs specified in the columns was produced using this workflow:
