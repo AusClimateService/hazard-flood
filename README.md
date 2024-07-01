@@ -32,10 +32,10 @@ In terms of the colors:
 ![Maximum 1-day runoff percentage change relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble](figures/max1day_runoff_ens_change_perc.png)
 
 
-**Tables:** Example table for 'Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions:
+**Tables:** Example table for Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions:
 ![Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions](figures/max_1day_runoff_statistics_table.png)
 
-**Plots:** Example plot for 'Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions:
+**Plots:** Example plot for Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions:
 ![Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions](figures/max1day_change_statistics_regions_plot.png)
 
 ## Roadmap
