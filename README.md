@@ -1,4 +1,4 @@
-# ACS Hazard Team on Drought and Changes in Aridity
+# ACS Hazard Team on Floods 
 
 ## Description
 GitHub repository for ACS Hazard Team on Riverine Floods to store, track and develop code, data (timeseries, plots and maps).
