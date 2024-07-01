@@ -21,7 +21,7 @@ In terms of the colors:
 - :red_circle: The data processing has not yet started
 - :white_circle: Not intended for delivery/not applicable
 
-(Table was last updated 5pm 21/06/2024)
+(Table was last updated 5pm 01/07/2024)
 
 | Index/metric | Timeseries | 2D |  2D change | 2D change - Multi-ensemble percentiles | (Notes) |
 |-----         | :-:      |:-:      |:-:            |:-:            |-----    |
