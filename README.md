@@ -28,7 +28,8 @@ In terms of the colors:
 |Number of days exceeding the 90th percentile at GWL 1.2 |:green_circle:|:green_circle:|:green_circle:|:green_circle:|deliverable for 30 June <br> Data to be transferred to /g/data/ia39/ncra/flood/Runoff_Days_Exc_90Perc |
 
 ## Roadmap
-Coming soon..
+The data for the outputs specified in the columns was produced using this workflow:
+![Workflow](figures/workflow_runoff_metrics.png)
 
 ## Contributing
 Open to contributions. 
