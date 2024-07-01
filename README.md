@@ -1,4 +1,5 @@
-<img width="740" alt="max_1day_runoff_statistics_table" src="https://github.com/AusClimateService/hazard-flood/assets/105326247/2dcfb2a4-3614-4f19-bef9-c8c080a2ce5a"># ACS Hazard Team on Riverine Floods 
+# ACS Hazard Team on Drought and Changes in Aridity
+
 ## Description
 GitHub repository for ACS Hazard Team on Riverine Floods to store, track and develop code, data (timeseries, plots and maps).
 Changes in the risk of riverine flooding are often associated with changes in the frequency or magnitude of extreme runoff. While extreme runoff does not directly translate to floods, this metric, in conjunction with information about land surface antecedent conditions and hydrological modelling, aid in the assessment of high-flow events that arise from exceptionally wet conditions.
@@ -29,20 +30,20 @@ In terms of the colors:
 
 **Figures:** Example figure for 'Maximum 1-day runoff percentage change relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble:
 ![Maximum 1-day runoff percentage change relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble](figures/max1day_runoff_ens_change_perc.png)
-max1day_change_statistics_regions_plot.png
+
 
 **Tables:** Example table for 'Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions:
-![Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions](/g/data/er4/kb9272/acs_flood/hazard-flood/figures/max_1day_runoff_statistics_table.png)
+![Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions](figures/max_1day_runoff_statistics_table.png)
 
 **Plots:** Example plot for 'Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions:
-![Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions](/g/data/er4/kb9272/acs_flood/hazard-flood/figures/max1day_change_statistics_regions_plot.png)
+![Maximum 1-day runoff percentage change "mean" relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble for all NCRA regions](figures/max1day_change_statistics_regions_plot.png)
 
 ## Roadmap
 The data for the outputs specified in the columns was produced using this workflow:
 ![Workflow](figures/workflow_runoff_metrics.png)
 
 ## References
-* Peter, J., Vogel, E., Sharples, W., Bende-Michl, U., Wilson, L., Hope, P., ... & Argent, R. (2024). Continental-scale bias-corrected climate and hydrological projections for Australia. Geoscientific Model Development, 17(7), 2755-2781.
+* Peter, J., Vogel, E., Sharples, W., Bende-Michl, U., Wilson, L., Hope, P., Dowdy, A., Kociuba, G., Srikanthan, S., Duong, V. C., Roussis, J., Matic, V., Khan, Z., Oke, A., Turner, M., Baron-Hay, S., Johnson, F., Mehrotra, R., Sharma, A., Thatcher, M., Azarvinand, A., Thomas, S., Boschat, G., Donnelly, C., and Argent, R.: Continental-scale bias-corrected climate and hydrological projections for Australia, Geosci. Model Dev., 17, 2755–2781, https://doi.org/10.5194/gmd-17-2755-2024, 2024. 
 * https://awo.bom.gov.au/
 
 ## Contributing
