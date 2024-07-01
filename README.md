@@ -31,6 +31,10 @@ In terms of the colors:
 The data for the outputs specified in the columns was produced using this workflow:
 ![Workflow](figures/workflow_runoff_metrics.png)
 
+## References
+Peter, J., Vogel, E., Sharples, W., Bende-Michl, U., Wilson, L., Hope, P., ... & Argent, R. (2024). Continental-scale bias-corrected climate and hydrological projections for Australia. Geoscientific Model Development, 17(7), 2755-2781.
+https://awo.bom.gov.au/
+
 ## Contributing
 Open to contributions. 
 
