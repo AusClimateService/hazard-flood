@@ -26,7 +26,7 @@ In terms of the colors:
 | Index/metric | Timeseries | 2D |  2D change | 2D change - Multi-ensemble percentiles | (Notes) |
 |-----         | :-:      |:-:      |:-:            |:-:            |-----    |
 | Median annual maximum 1-day runoff |:green_circle:|:green_circle:|:green_circle:|:green_circle:|deliverable for 30 June <br> Data is at /g/data/ia39/ncra/flood/Runoff_Max1D |
-|Number of days exceeding the 90th percentile at GWL 1.2 |:green_circle:|:green_circle:|:green_circle:|:green_circle:|deliverable for 30 June <br> Data to be transferred to /g/data/ia39/ncra/flood/Runoff_Days_Exc_90Perc |
+|Annual total 90th percentile runoff|:green_circle:|:green_circle:|:green_circle:|:green_circle:|deliverable for 30 June <br> Data to be transferred to /g/data/ia39/ncra/flood/Runoff_annual_total_90perc|
 
 **Figures:** Example figure for 'Maximum 1-day runoff percentage change relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble:
 ![Maximum 1-day runoff percentage change relative to GWL 1.2 for the 10th, 50th and 90th percentile of the multi-model ensemble](figures/max1day_runoff_ens_change_perc.png)
